@@ -1,0 +1,67 @@
+{
+    "name": "Verivo Software",
+    "description": "Verivo\u2019s enterprise mobility platform enables companies to centrally build, deploy, manage and update their own mobile applications \u2013 rapidly and securely.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1852-verivo-software.jpg",
+    "tags": [
+        "applications",
+        "baas",
+        "have api",
+        "networks",
+        "telecommunications"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/verivo-software\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Verivo Software",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1852-verivo-software.jpg",
+            "humanURL": "http:\/\/www.verivo.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/verivo-software-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/verivo-software"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/verivo-software"
+        },
+        {
+            "type": "Email",
+            "url": "legal@verivo.com"
+        },
+        {
+            "type": "Email",
+            "url": "marketing@verivo.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@verivo.com"
+        },
+        {
+            "type": "Email",
+            "url": "hotjobs@verivo.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/verivosoftware"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.verivo.com\/"
+        }
+    ]
+}
